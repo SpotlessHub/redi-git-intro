@@ -11,8 +11,8 @@ Payam:
 - ...
 
 Mary:
-- ...
-- ...
+- I had to wake up very early today because I had to travel.
+- I returned from the trip feeling sick because of body exhaustion.
 
 Lena:
 - I woke up at 9 a.m because i have a holidays
