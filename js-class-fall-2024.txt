@@ -11,8 +11,8 @@ Payam:
 - ...
 
 Mary:
-- ...
-- ...
+- I woke up very early today because I had to travel.
+- I enjoyed the trip but I returned home totally worn out.
 
 Lena:
 - I woke up at 9 a.m because i have a holidays
